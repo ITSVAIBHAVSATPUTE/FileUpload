@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from github import Github
 
 # Telegram bot token ( @BotFather se le )
-BOT_TOKEN = ""
+BOT_TOKEN = "8208647691:AAESXj-hmmES2DYv7nhH2TYxZ4UvTmWceAI"
 
 user_data = {}
 
